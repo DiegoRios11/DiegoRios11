@@ -39,3 +39,7 @@ I'm a passionate software developer and a soon-to-be Systems Engineering graduat
 </span>
 
 <p align="center"> <i>“The future belongs to those who believe in the beauty of their dreams.”</i> <br> <br> <a target="_blank" href="https://www.linkedin.com/in/diego-rios11/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:digoriosf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <br> </p>
+
+
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRios11&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRios11&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
